@@ -63,10 +63,10 @@
             color: var(--accent-pink);
             }
         
-        li:nth-of-type(3){
-            color:var(--accent-orange);
+            li:nth-of-type(3) {
+            color: var(--accent-orange);
         }
-        footer {
+            footer {
             text-align: center;
         }
         }
