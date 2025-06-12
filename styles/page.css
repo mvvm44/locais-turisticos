@@ -3,8 +3,15 @@
     margin-inline: auto;
 
     header{
+        img{
         border-radius: 2.8rem;
         margin-bottom: 2.4rem;
         height: 66rem;
+    }
+    }
+
+    p {
+        font-size: italic;
+        text-align: center;
     }
 }
